@@ -27,21 +27,21 @@ Some of our key feature includes:
 - JWT 
 - MongoDB 
 - Redis
+
+
+## Screenshots
+![gp1](https://github.com/VaibhavSr007/VITB-Grievance-Portal/assets/99118025/100aa9e9-fe72-43e4-b01d-cd837e728686)
+![gp](https://github.com/VaibhavSr007/VITB-Grievance-Portal/assets/99118025/0d2912f3-d30b-45f3-bebc-f32ee038e587)
+
+
 ## Demo
-
 https://vitb-grievances.aayush65.com/
-
-
 
 ## Authors
 
 - Vaibhav Srivastava
 - Aayush Gupta
 
-
-## Screenshots
-![gp1](https://github.com/VaibhavSr007/VITB-Grievance-Portal/assets/99118025/100aa9e9-fe72-43e4-b01d-cd837e728686)
-![gp](https://github.com/VaibhavSr007/VITB-Grievance-Portal/assets/99118025/0d2912f3-d30b-45f3-bebc-f32ee038e587)
 
 
 
